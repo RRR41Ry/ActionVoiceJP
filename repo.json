@@ -7,7 +7,7 @@
     "Description": "FF14のアクションにカスタムWAV音声を追加するDalamudプラグインです。キャラクター別設定、音量・遅延調整、ボイスパック共有に対応しています。",
     "Punchline": "既存のSE MODを維持したまま、アクションに声を追加します。",
     "RepoUrl": "https://github.com/RRR41Ry/ActionVoiceJP",
-    "IconUrl": "https://raw.githubusercontent.com/RRR41Ry/ActionVoiceJP/master/icon512.png",
+    "IconUrl": "https://raw.githubusercontent.com/RRR41Ry/ActionVoiceJP/master/icon.png",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": false,
