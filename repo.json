@@ -3,7 +3,7 @@
     "Author": "Community prototype (AI-assisted)",
     "Name": "Action Voice JP",
     "InternalName": "ActionVoiceJP",
-    "AssemblyVersion": "1.1.2.0",
+    "AssemblyVersion": "1.1.1.0",
     "Description": "FF14のアクションにカスタムWAV音声を追加するDalamudプラグインです。キャラクター別設定、音量・遅延調整、ボイスパック共有に対応しています。",
     "Punchline": "既存のSE MODを維持したまま、アクションに声を追加します。",
     "RepoUrl": "https://github.com/RRR41Ry/ActionVoiceJP",
@@ -12,8 +12,8 @@
     "DalamudApiLevel": 15,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/RRR41Ry/ActionVoiceJP/releases/download/v1.1.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/RRR41Ry/ActionVoiceJP/releases/download/v1.1.2/latest.zip",
+    "DownloadLinkInstall": "https://github.com/RRR41Ry/ActionVoiceJP/releases/download/v1.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/RRR41Ry/ActionVoiceJP/releases/download/v1.1.1/latest.zip",
     "LastUpdate": 0
   }
 ]
