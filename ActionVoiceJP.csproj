@@ -1,0 +1,13 @@
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>1.1.0</Version>
+    <Author>Community prototype (AI-assisted)</Author>
+    <Name>Action Voice JP</Name>
+    <Punchline>既存のSE MODを維持したまま、アクションに声を追加します。</Punchline>
+    <Description>アクションIDにWAV音声を割り当て、個別音量や遅延、試聴を管理する日本語UIの試作プラグインです。/actionvoice</Description>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="NAudio" Version="2.4.0" />
+  </ItemGroup>
+</Project>
